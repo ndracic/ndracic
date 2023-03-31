@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ndracic
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning web development
+- 🌱 I’m always learning web development
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me email: nermin.dracic@gmail.com
 
